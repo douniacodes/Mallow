@@ -39,7 +39,7 @@ Ce projet est en cours de développement.
 1. Cloner le projet
 
 Bash
-git clone https://github.com/ton-username/mallow.git
+git clone https://github.com/douniacodes/mallow.git
 cd mallow
 
 2. Installer les dépendances
